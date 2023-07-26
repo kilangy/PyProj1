@@ -65,8 +65,6 @@ def func_save_output(file_path):
 
 func_save_output(file_path="results.txt")
 
-# Part IV of the Project
-
 import re
 regex = re.compile('[^a-zA-Z]')
 
